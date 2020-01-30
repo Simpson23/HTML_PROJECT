@@ -6,7 +6,7 @@
 
 body {
     background-image: url("background pic.png");
-    background-repeat: repeat-x;
+    background-repeat: repeat-y;
     background-attachment: fixed;
 }
 
