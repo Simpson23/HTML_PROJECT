@@ -6,8 +6,8 @@
 
 body {
     background-image: url("background pic.png");
-    background-repeat: repeat-y;
-    background-attachment: static;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
 }
 
 h2 {
